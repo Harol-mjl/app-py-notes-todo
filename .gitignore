@@ -21,9 +21,7 @@
 # Entornos virtuales
 # ========================
 venv/
-.venv/
-env/
-env.bak/
+.env/
 
 # ========================
 # Archivos generados por Django
